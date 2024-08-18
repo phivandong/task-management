@@ -1,0 +1,5 @@
+[
+  { "name": "Task 1", "state": "TODO" },
+  { "name": "Task 2", "state": "DOING" },
+  { "name": "Task 3", "state": "DONE" }
+]
